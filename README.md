@@ -1,5 +1,5 @@
 [![Twitter: @NorowaretaGemu](https://img.shields.io/badge/X-@NorowaretaGemu-blue.svg?style=flat)](https://x.com/NorowaretaGemu)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 _GLTF Exporter_ is a [Unity3D](https://unity3d.com/) Editor Tool that allows exporting Unity3D objects to **glTF 2.0** format.
 
